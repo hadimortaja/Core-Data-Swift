@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Hadi-Note-App
 //
-//  Created by Ibrahim Mushtaha on 26/05/2021.
+//  Created by Hadi on 26/05/2021.
 //
 
 import UIKit
